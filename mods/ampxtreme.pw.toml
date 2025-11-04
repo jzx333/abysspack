@@ -1,0 +1,13 @@
+name = "AmpXtreme"
+filename = "ampxtreme-1.3.6+mc1.21.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6nqoo77q/versions/RAzuP7Zq/ampxtreme-1.3.6%2Bmc1.21.8.jar"
+hash-format = "sha512"
+hash = "9583372188818601f4d45f1fffa315181b49390950404b76061456e510954675af682b3bce0f0a805270f45ed08c3996080cf8a8e86db7af3af75d63dd2c3c7a"
+
+[update]
+[update.modrinth]
+mod-id = "6nqoo77q"
+version = "RAzuP7Zq"

@@ -1,0 +1,13 @@
+name = "abysspack"
+author = "jzx333"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "45d1af4d44f187c1de24c1646ace8c2a9118161eda467d133339f14933cdad58"
+
+[versions]
+fabric = "0.17.3"
+minecraft = "1.21.8"
