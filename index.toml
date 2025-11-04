@@ -21,6 +21,11 @@ hash = "fc0c787d043f2233fd45c724e80020ecf1e1e0e454ba43ecb8107de74a20e1e6"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "974049895ae886659595771f83bd5a03da5b969b402a029694a2978d1ffd7aa0"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "6dcbdf6e62c1d2b7655e94951fdb57e0584d3153d9150c1d9d882eab89da3a37"
 metafile = true
@@ -28,6 +33,11 @@ metafile = true
 [[files]]
 file = "mods/cicada.pw.toml"
 hash = "2108a3f7ff334130bc04e57cb19d56a6f0c1b403e89c120402e06dfb6c973412"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
 metafile = true
 
 [[files]]
@@ -48,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "ff166f6f205e4ce227da6fd173e45a8277730137f75f13fa0c47559745105637"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "d93c3c494955dfc44e2590ded2ee8414d582e87f2fca00575f08576ae2197d57"
 metafile = true
 
 [[files]]
@@ -92,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
-hash = "3ae7b277219dbb0f0a75745a55e7712c754275fc85998707e7983039353d187d"
+hash = "a0576bb956313cdfbbf4ac1a1886e6f5613787f5da18e1a4b11539b0fadb3465"
 metafile = true
 
 [[files]]
@@ -106,8 +121,18 @@ hash = "27e831fd1b4c353112f03373b33fba5ecb6608229c510cd1a6cb2d8f4265a722"
 metafile = true
 
 [[files]]
+file = "mods/philips-ruins.pw.toml"
+hash = "24cba6e66cd64126e99bc8d6433859afd7805498f8c9f43c433b33a4963709ff"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "0993352e081593fca386a8a4e6473ece541a27e018c8384239f27f79d73133a0"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "c8cc1d7e91aa70a842dad55a649bab3b0f899aa5a2fd191a3a4a44fc6e4e3005"
 metafile = true
 
 [[files]]
@@ -128,6 +153,16 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "b59f4d3368c4e6fa4dd27fda4e9983aecababd81ee27e104084c77eefba83f49"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "0fd22cd0c19d958854436c16fe110f06778ded1c5501b154c1c82a598bcfb868"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "7e47658ab39b99e342912c71a594708080d2b2236461ddf78871ac827b807884"
 metafile = true
 
 [[files]]
