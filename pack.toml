@@ -1,12 +1,12 @@
 name = "abysspack"
 author = "jzx333"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4a505bc87dbde3a276d3ed94e931036413d8915b8f4211649a378ce72a09c5dd"
+hash = "93ebaf050609cc74df8e784e58ceebc670fd3647f79cb9d1b3e375a8c0c2f090"
 
 [versions]
 fabric = "0.17.3"

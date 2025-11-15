@@ -2,4 +2,4 @@
 *.zip
 
 # Exclude exported Modrinth modpacks
-*.mrpack
+#*.mrpack
